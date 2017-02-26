@@ -1,0 +1,13 @@
+welcome: Welcome to Mehgany, a social media adaptive service for the visually impaired.
+
+search: What would you like to search for?
+
+loginFailure: Unable to retrieve device login code. Please restart Mehganay.
+
+error: { error }
+
+read: Reading posts...
+
+directive: Our mission is to make social media accessible to the visually impaired using Alexa and the Facebook API. In doing this, we will help those who are unable to access social media sites through conventional methods so that they may connect with family, friends and loved ones.
+
+directions: To read posts, simply say "Read Posts". To make a search, say "search" followed by the request.
